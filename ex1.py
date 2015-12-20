@@ -1,0 +1,8 @@
+#print "hello World!"
+#print "hello Again"
+#print " wat is dit een computer code"
+print "Please Stand by"
+print "This is not a test"
+print "The Plaga is detected!"
+print "Get ready for emergency lock down"
+print "Please Stand by"
